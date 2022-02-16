@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 5: Database Operators and Query Processing'
 uid: 7e452213-9ff8-c4f4-ce12-ca666628b3d1

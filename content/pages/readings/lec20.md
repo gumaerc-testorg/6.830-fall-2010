@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 20: ORM, DryadLINQ'
 uid: cb945a4c-bc66-de19-5f56-67d51ac78666

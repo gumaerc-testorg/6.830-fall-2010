@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 6: Indexing and Access Methods'
 uid: f59bf6ba-c7ab-4607-ed75-486674863cd9

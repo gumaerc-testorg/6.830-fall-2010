@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 4: Introduction to Database Internals'
 uid: e72d69e6-24a8-6acb-9aec-ddde59f04f4f

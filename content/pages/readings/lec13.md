@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 13: Recovery (cont.)'
 uid: b40315db-3f5f-7f55-b64f-d70771dc314a

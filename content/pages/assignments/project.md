@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e3e3793c-e7ed-9d0a-c7b1-c5e18c2d5918
 title: 'Final Project Assignment and Ideas '
 uid: 1e713d66-f674-b37e-57f8-a4dfe5539771
