@@ -114,7 +114,7 @@ Lab 5: Rollback and recovery ([PDF]({{< baseurl >}}/resources/mit6_830f10_lab5))
 
 ([GZ]({{< baseurl >}}/resources/lab5_supp-tar))
 
-Patch ([TXT](/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/assignments/lab5_patch.txt))
+Patch ([TXT]({{< baseurl >}}/resources/lab5_patch))
 
 
 {{< tdclose >}}

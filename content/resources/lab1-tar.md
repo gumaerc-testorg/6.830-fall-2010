@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e3e3793c-e7ed-9d0a-c7b1-c5e18c2d5918
 resourcetype: Other
 title: lab1.tar.gz
 uid: 7d9dc86a-b8b3-f2bd-03d6-c41a4e9ae5b4

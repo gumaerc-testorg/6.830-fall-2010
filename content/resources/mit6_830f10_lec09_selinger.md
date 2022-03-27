@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 887b347f-358a-dc23-56e4-a7411b44c7a4
 resourcetype: Document
 title: MIT6_830F10_lec09_selinger.pdf
 uid: 7b28a2eb-f609-323f-8ac6-783cae73beb5

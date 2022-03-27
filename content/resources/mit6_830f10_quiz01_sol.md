@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4d3c5294-e9f0-032d-2060-5ec3fce88e9c
 resourcetype: Document
 title: MIT6_830F10_quiz01_sol.pdf
 uid: 4ef68d06-23e2-6e1c-cd86-d74f576d71c3

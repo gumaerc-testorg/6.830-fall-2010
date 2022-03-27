@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e3e3793c-e7ed-9d0a-c7b1-c5e18c2d5918
 resourcetype: Document
 title: MIT6_830F10_overview.pdf
 uid: da9ed258-0ecd-2ebd-249f-225c2862f4a6
