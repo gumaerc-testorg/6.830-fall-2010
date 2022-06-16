@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on parallel and distributed
+  query processing.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -8,6 +10,10 @@ parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 16: Distributed Transactions'
 uid: 66567cf1-bcf6-6bb7-3302-5efcf677f715
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 We will continue our discussion of parallel and distributed query processing. You should read:
