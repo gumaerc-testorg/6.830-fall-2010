@@ -5,6 +5,7 @@ file: /courses/6-830-database-systems-fall-2010/80fdc445f92ca875b86238522f364f02
 file_type: application/x-tar
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supporting file for lab 3.
-
