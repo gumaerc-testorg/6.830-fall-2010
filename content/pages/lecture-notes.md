@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lecture
+  notes for selected sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 887b347f-358a-dc23-56e4-a7411b44c7a4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Selected lecture notes are available below. These lecture notes are not meant to be a comprehensive coverage of all topics in every lecture, but rather a rough outline of the class for the day. Each lecture was delivered by the instructor noted below.
@@ -33,7 +42,7 @@ LECTURE NOTES
 Introduction (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec01))
+({{% resource_link ce269ab3-b1fe-758d-f40a-ec6cad51371e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +54,7 @@ Introduction (CC)
 The relational model (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec02))
+({{% resource_link 8d7652b9-5f03-2eab-2dcd-6320d8a9f1c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +66,7 @@ The relational model (MS)
 Schema design (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec03))
+({{% resource_link a9c47ed7-d80c-1bfc-51d0-baf7ac545398 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +78,7 @@ Schema design (MS)
 Introduction to database internals (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec04))
+({{% resource_link 8d820170-818e-123c-0f07-8729a6712bc1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +90,7 @@ Introduction to database internals (CC)
 Database operators and query processing (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec05))
+({{% resource_link 3dde7e38-f734-79c8-486a-579c760881f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +102,7 @@ Database operators and query processing (CC)
 Indexing and access methods (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec06))
+({{% resource_link 1343b269-9f7d-4c76-a768-b8f45b1674b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +114,7 @@ Indexing and access methods (CC)
 Buffer pool design and memory management (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec07))
+({{% resource_link a8f0c23a-f21f-c07f-3c69-6ce4df4e4582 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +126,7 @@ Buffer pool design and memory management (CC)
 Join algorithms (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec07b))
+({{% resource_link cbab1dd7-4657-9df2-cf20-fe5027fbf95a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,9 +140,9 @@ Query optimization (CC)
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec09))
+({{% resource_link cf3d2f95-cf16-fa71-7f57-1771c3792d38 "PDF" %}})
 
-Selinger optimizer (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_830f10_lec09_selinger))
+Selinger optimizer ({{% resource_link 7b28a2eb-f609-323f-8ac6-783cae73beb5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -147,7 +156,7 @@ Selinger optimizer (![This resource may not render correctly in a screen reader.
 Transactions and locking (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec10))
+({{% resource_link 10b223dc-3daf-6fda-4001-272799b153a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +168,7 @@ Transactions and locking (MS)
 Optimistic concurrency control (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec11))
+({{% resource_link d69d410c-e33b-5aa4-5c37-c6b38a78ca4f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +180,7 @@ Optimistic concurrency control (MS)
 Recovery (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec12))
+({{% resource_link f8656ba4-421e-b5f5-8cd1-38b085d89a72 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +192,7 @@ Recovery (MS)
 Recovery (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec13))
+({{% resource_link 935ede97-2b99-2acb-7e5b-bbd82ad8ad68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +204,7 @@ Recovery (MS)
 Degrees of consistency (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec14))
+({{% resource_link 34af4aea-b0ab-4c4f-8400-a1728e3ec1c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +222,7 @@ Guest lecture: Sam Madden, MIT CSAIL
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec15))
+({{% resource_link e6345ec7-14bf-830b-c70a-9b5f194c1edf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +234,7 @@ Guest lecture: Sam Madden, MIT CSAIL
 Distributed transactions (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec16))
+({{% resource_link bb7317f7-4359-bd61-ad49-7a689e151ef1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +246,7 @@ Distributed transactions (CC)
 Parallel databases (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec17))
+({{% resource_link f1983db5-6559-3b75-2835-454dd9d91b62 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +258,7 @@ Parallel databases (CC)
 Scientific databases (MS)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec18))
+({{% resource_link 00a5c164-25d3-b905-dfcd-2993ffd6ab50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +270,7 @@ Scientific databases (MS)
 NOSQL (CC)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_830f10_lec19))
+({{% resource_link 248a1aba-3373-b4fa-358d-f1bc01aed941 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,9 +284,9 @@ ORM, DryadLINQ (CC)
 {{< tdopen >}}
 
 
-ORM ([PDF]({{< baseurl >}}/resources/mit6_830f10_lec20))
+ORM ({{% resource_link 264607c7-0ffc-9710-8f6c-e14914220be5 "PDF" %}})
 
-DryadLINQ ([PDF]({{< baseurl >}}/resources/mit6_830f10_lec20b))
+DryadLINQ ({{% resource_link fe990146-9a4a-62e1-aef3-36bea7ad3e69 "PDF" %}})
 
 
 {{< tdclose >}}

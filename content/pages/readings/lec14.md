@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on degrees of consistency.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 14: Degrees of Consistency'
 uid: 08e7d76a-03d5-dddb-0d61-b0f5d06eecc5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Read:

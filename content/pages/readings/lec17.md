@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on parallel databases.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 17: Parallel Databases'
 uid: 9dfb284b-d00a-502f-99f9-a78bd61390ea
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Read:

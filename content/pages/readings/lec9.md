@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on query optimization.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 9: Query Optimization'
 uid: 75e1c741-b298-9e11-b22a-dd3535db6620
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In this lecture, we will discuss the problem of query optimization, focusing on the algorithms proposed in the classic "Selinger" paper.

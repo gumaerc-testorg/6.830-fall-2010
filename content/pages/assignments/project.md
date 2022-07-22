@@ -1,9 +1,19 @@
 ---
 content_type: page
+description: This section contains instructions and suggested topics for the final
+  project of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e3e3793c-e7ed-9d0a-c7b1-c5e18c2d5918
 title: 'Final Project Assignment and Ideas '
 uid: 1e713d66-f674-b37e-57f8-a4dfe5539771
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 A large portion (20%) of your grade in 6.830 consists of a final project. This project is meant to be a substantial independent research or engineering effort related to material we have studied in class. Your project may involve a comparison of systems we have read about, an application of database techniques to a system you are familiar with, or be a database-related project in your research area.

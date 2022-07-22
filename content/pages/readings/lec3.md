@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: Readings and discussion questions for a lecture on schema design.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 607e580d-09fd-cfa0-0f08-a87ae0de6ad6
 title: 'Lecture 3: Schema Design'
 uid: c8f9eae5-d3e9-34f1-f7c5-c3528a164316
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The reading for this lecture is:
