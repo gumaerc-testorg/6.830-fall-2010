@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2010",
   "level": [
-    "Graduate"
+    "Graduate",
+    "Undergraduate"
   ],
   "topics": [
     [
@@ -40,7 +41,7 @@
     "website": "6-830-database-systems-fall-2010"
   },
   "course_title": "Database Systems",
-  "course_description": "This course relies on primary readings from the database community to introduce graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalization, query optimization, and transactions. It is designed for students who have taken [6.033](courses/6-033-computer-system-engineering-spring-2018) (or equivalent); no prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.\n",
+  "course_description": "This course relies on primary readings from the database community to introduce graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalization, query optimization, and transactions. It is designed for students who have taken [6.033](/courses/6-033-computer-system-engineering-spring-2018/) (or equivalent); no prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.",
   "department_numbers": [
     "6"
   ],
@@ -55,6 +56,7 @@
     "Lecture Notes",
     "Programming Assignments"
   ],
-  "site_uid": "421913f3-c691-4ccf-96da-2d9e9036e495",
+  "site_uid": "e3388548-4275-4fd8-a431-eaacc659c3ae",
+  "site_short_id": "6.830-fall-2010",
   "title": "Course Metadata"
 }
