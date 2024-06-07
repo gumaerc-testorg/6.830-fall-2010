@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lab 5.
 file: /courses/6-830-database-systems-fall-2010/6b9dbb265ae7313432ca201c5d7a5a8e_lab5_supp.tar.gz
+file_size: 7698
 file_type: application/x-tar
 learning_resource_types:
 - Assignments
