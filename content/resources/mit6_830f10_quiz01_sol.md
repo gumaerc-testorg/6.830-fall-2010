@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on schema design.
-file: /ol-ocw-studio-app/courses/6-830-database-systems-fall-2010/4ef68d0623e26e1ccd86d74f576d71c3_MIT6_830F10_quiz01_sol.pdf
+file: /courses/6-830-database-systems-fall-2010/4ef68d0623e26e1ccd86d74f576d71c3_MIT6_830F10_quiz01_sol.pdf
 file_size: 244055
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3.
-file: /ol-ocw-studio-app/courses/6-830-database-systems-fall-2010/80fdc445f92ca875b86238522f364f02_lab3_supp.tar.gz
+file: /courses/6-830-database-systems-fall-2010/80fdc445f92ca875b86238522f364f02_lab3_supp.tar.gz
 file_size: 6190
 file_type: application/x-tar
 learning_resource_types:
