@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 5.
-file: /courses/6-830-database-systems-fall-2010/e4f535ce0df7ea183379de8df431f906_lab5_patch.txt
+file: /ol-ocw-studio-app/courses/6-830-database-systems-fall-2010/e4f535ce0df7ea183379de8df431f906_lab5_patch.txt
 file_size: 8545
 file_type: text/plain
 learning_resource_types:
