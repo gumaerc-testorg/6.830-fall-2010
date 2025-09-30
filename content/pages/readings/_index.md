@@ -15,7 +15,7 @@ video_metadata:
 
 Many of the readings are drawn from the following sources:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262693141) Hellerstein, Joseph, and Michael Stonebraker. [_Readings in Database Systems (The Red Book)_](https://mitpress.mit.edu/9780262693141). 4th ed. MIT Press, 2005. ISBN: 9780262693141.
+{{% resource_link "f47530ee-c6fe-4e94-8af9-9400a7c8bb94" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hellerstein, Joseph, and Michael Stonebraker. {{% resource_link "f47530ee-c6fe-4e94-8af9-9400a7c8bb94" "_Readings in Database Systems (The Red Book)_" %}}. 4th ed. MIT Press, 2005. ISBN: 9780262693141.
 
 Ramakrishnan, Raghu, and Johannes Gehrke. _Database Management Systems_. 3rd ed. McGraw-Hill, 2002. ISBN: 9780072465631.
 
