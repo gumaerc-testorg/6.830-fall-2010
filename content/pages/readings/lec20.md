@@ -18,7 +18,7 @@ video_metadata:
 
 Read:
 
-Yu, Yuan, et al. "DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language." OSDI, 2008. ([PDF](http://research.microsoft.com/en-us/projects/dryadlinq/dryadlinq.pdf))
+Yu, Yuan, et al. "DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language." OSDI, 2008. ({{% resource_link "3dbcdf0d-2e3a-42b5-8cab-6def216f2071" "PDF" %}})
 
 DryadLINQ is a programming language for manipulating structured data in a distributed setting. It provides a collection of SQL-like constructs that are well-integrated into C# (with a common type and object system), and compiles down to a graph of operators spread across a distributed network of machines in a way similar to how distributed databases work.
 

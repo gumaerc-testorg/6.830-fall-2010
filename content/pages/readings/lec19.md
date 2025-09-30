@@ -18,7 +18,7 @@ video_metadata:
 
 Read:
 
-Chang, Fay, et al. "Bigtable: A Distributed Storage System for Structured Data." OSDI, 2006. ([PDF](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf))
+Chang, Fay, et al. "Bigtable: A Distributed Storage System for Structured Data." OSDI, 2006. ({{% resource_link "faaf596a-aa74-435d-a5a3-44e243f1052c" "PDF" %}})
 
 Bigtable is a storage system for structured data; it is essentially a compressed, horizontally partitioned, column-oriented database with some interesting properties that allow it to reach "web scale".
 
